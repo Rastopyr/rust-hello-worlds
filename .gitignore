@@ -4,6 +4,9 @@
 *.rlib
 *.dll
 
+target
+*.lock
+
 # Executables
 *.exe
 
